@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yamen003
+- 👋 Hi, I’m Yamen
 - 👀 I’m interested in the uknown 👀
 - 🌱 I’m currently learning REACT JS
 - 💞️ I’m looking to collaborate on a REACT PROJECT
